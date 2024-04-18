@@ -1,0 +1,25 @@
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.exe
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.deps.json
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.runtimeconfig.json
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.dll
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.pdb
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.dll
+C:\Users\Djordje\source\repos\DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\bin\Debug\netcoreapp3.1\DekorationMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.csproj.AssemblyReference.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 3 DekorationMuster\DekorationMuster\obj\Debug\netcoreapp3.1\DekorationMuster.GeneratedMSBuildEditorConfig.editorconfig
